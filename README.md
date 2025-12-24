@@ -122,6 +122,52 @@ My course work solutions and quiz answers
 
 </details>
 
+
+<details>
+  <summary><b>Course 5 - Sequence Models </b></summary>
+  
+  #### Week 1 - Recurrent Neural Networks [Quiz](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week1/DL_C5_week1_quiz_recurrent_neural_networks.png)
+  
+  *Discover recurrent neural networks, a type of model that performs extremely well on temporal data, and several of its variants, including LSTMs, GRUs and Bidirectional RNNs.*
+  
+  [Building your Recurrent Neural Network - Step by Step](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week1/DL_C5_week1_1_Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+  
+  
+  [Dinosaur Island-Character-Level Language Modeling](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week1/DL_C5_week1_2_Dinosaurus_Island_Character_level_language_model.ipynb)
+
+
+  [Jazz Improvisation with LSTM](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week1/DL_C5_week1_3_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+  
+  
+  #### Week 2 - Natural Language Processing & Word Embeddings [Quiz](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week2/DL_C5_week2_quiz_natural_language_processing_word_embeddings.png)
+  
+  *Natural language processing with deep learning is a powerful combination. Using word vector representations and embedding layers, train recurrent neural networks with outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition and neural machine translation.*
+
+  [Operations on Word Vectors - Debiasing](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week2/DL_C5_week2_1_Operations_on_word_vectors_v2a.ipynb)
+  
+  [Emojify](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week2/DL_C5_week2_2_Emoji_v3a.ipynb)
+  
+
+  #### Week 3 - Sequence Models & Attention Mechanism [Quiz](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week3/DL_C5_week3_quiz_sequence_models_attention_mechanism.png)
+  
+  *Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs. Then, explore speech recognition and how to deal with audio data.*
+
+  [Neural Machine Translation](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week3/DL_C5_week3_1_Neural_machine_translation_with_attention_v4a.ipynb)
+  
+  [Trigger Word Detection](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week3/DL_C5_week3_2_Trigger_word_detection_v2a.ipynb)
+  
+  #### Week 4 - Transformer Network [Quiz](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week4/DL_C5_week4_quiz_transformers.png)
+    
+  [Transformers Architecture with TensorFlow](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week4/DL_C5_week4_Transformers_Architecture_with_TensorFlow.ipynb)
+  
+  [Transformer Pre-processing](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week4/DL_C5_week4_lab_Embedding_plus_Positional_encoding.ipynb)
+  
+  [Named-Entity Recognition](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week4/DL_C5_week4_lab_Transformer_application_Named_Entity_Recognition.ipynb)
+
+  [Question Answering](https://github.com/kenhding/Coursera/blob/master/Deep_Learning_Specialization/Course_5_Sequence_Models/Week4/DL_C5_week4_lab_QA_dataset.ipynb)
+
+</details>
+
 ---
 
 ## Reinforcement Learning Specialization
